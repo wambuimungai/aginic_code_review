@@ -8,8 +8,8 @@ Website: [ABACUS](https://abacus.co.ke/)
 > A python script to scrape the data: [stock_scraping.py](https://github.com/wambuimungai/kpmg_tech_assessment/blob/master/stock_scraping.py)
 
 ## Requirements
- Create an account with Abacus
- Add config.pylogin: Contains the credentials to access Abacus Website. Import in the main script
+ >Create an account with Abacus
+ >Add config.pylogin: Contains the credentials to access Abacus Website. Import in the main script
    
 
 ## Exponential Moving Average:[SM_data_exploration_viz_scom](https://github.com/wambuimungai/kpmg_tech_assessment/blob/master/SM_data_exploration_viz_scom.ipynb)
