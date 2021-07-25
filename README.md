@@ -1,6 +1,6 @@
 # kpmg_tech_assessment
 ## Kenya Stock Market:Safaricom CaseStudy
-> The purpose of the project is to mine stock market data in Kenya for the companies of interest,to explore the trends as well as build machine learning models to predict buying and selling.
+> The purpose of the project is to mine stock market data in Kenya for the companies of interest,to explore the trends and show simple moving average strategy
 
 Website: [ABACUS](https://abacus.co.ke/)
 
@@ -13,7 +13,7 @@ Website: [ABACUS](https://abacus.co.ke/)
  >Add config.pylogin: Contains the credentials to access Abacus Website. Import in the main script
    
 
-## Exponential Moving Average:
+## Moving Average Trading Strategy:
 [SM_data_exploration_viz_scom](https://github.com/wambuimungai/kpmg_tech_assessment/blob/master/SM_data_exploration_viz_scom.ipynb)
 
 
