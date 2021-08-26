@@ -1,5 +1,6 @@
-# kpmg_tech_assessment
-## Kenya Stock Market:Safaricom CaseStudy
+# Aginic_Review_Code
+> Note: Opted to scrape data instead of using an API for Nairobi Securities Exchange which requires payment
+## Kenya Stock Market:Safaricom Case Study: Nairobi's biggest telco
 > The purpose of the project is to mine stock market data in Kenya for the companies of interest,to explore the trends and show simple moving average strategy
 
 Website: [ABACUS](https://abacus.co.ke/)
