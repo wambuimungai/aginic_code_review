@@ -11,7 +11,7 @@ Website: [ABACUS](https://abacus.co.ke/)
 ## Requirements
  >Create an account with Abacus. 
  
- >Add config.pylogin: Contains the credentials to access Abacus Website. Import in the main script
+ >Add config.py file for login: Contains the credentials to access Abacus Website. Import in the main script
    
 
 ## Moving Average Trading Strategy:
